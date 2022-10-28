@@ -21,7 +21,7 @@ cd Marshal-encrypter
 
 1.Move or copy any file you want to encrypt into the folder
 
-2.run the python file and Enter correct Name as it says
+2.run "python3 marshal_encrypt.py" and Enter correct Name as it says
 
 3.enjoyed
 
