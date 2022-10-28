@@ -17,6 +17,10 @@ git clone https://www.github.com/Warren927/Marshal-encrypter/
 cd Marshal-encrypter
 ```
 
+```py
+python3 marshal_encrypt.py
+```
+
 ## Usages
 
 1.Move or copy any file you want to encrypt into the folder
