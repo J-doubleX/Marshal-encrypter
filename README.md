@@ -1,17 +1,22 @@
 # Marshal-encrypter
 
-#Installation
-
+## Installation
+```
 apt update && apt upgrade -y
+```
 
+```
 apt install git
+```
 
+```
 git clone https://www.github.com/Warren927/Marshal-encrypter/
-
+```
+```
 cd Marshal-encrypter
+```
 
-
-#Usages
+## Usages
 
 1.Move or copy any file you want to encrypt into the folder
 
