@@ -10,7 +10,7 @@ apt install git -y
 ```
 
 ```sh
-git clone https://www.github.com/Warren927/Marshal-encrypter/
+git clone https://www.github.com/J-doubleX/Marshal-encrypter/
 ```
 
 ```sh
